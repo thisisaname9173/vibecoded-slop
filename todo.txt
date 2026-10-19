@@ -1,0 +1,4 @@
+- [ ] fix that one bug
+- [ ] rewrite everything
+- [ ] pretend the rewrite fixed it
+- [ ] vibe
